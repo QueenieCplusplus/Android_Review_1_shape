@@ -10,7 +10,7 @@ login app using shape to do a round button
 
  see res/drawable/... in under project.
 
-＃Dimens
+# Dimens
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_shape/main/dimens.png)
 
