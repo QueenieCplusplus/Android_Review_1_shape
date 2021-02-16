@@ -6,6 +6,14 @@ login app using shape to do a round button
 
 ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_shape/main/output2.png)
 
+# Shape
+
+ see res/drawable/... in under project.
+
+＃Dimens
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_shape/main/dimens.png)
+
 ref : 
 
 https://www.itread01.com/content/1547691692.html
