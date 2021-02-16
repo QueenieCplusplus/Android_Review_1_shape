@@ -8,7 +8,7 @@ login app using shape to do a round button
 
 # Shape
 
- see res/drawable/... in under project.
+ see res/drawable/round_shape in under project.
  
  
      <?xml version="1.0" encoding="utf-8"?>
@@ -16,6 +16,20 @@ login app using shape to do a round button
         <corners android:radius="100dp" />
         <solid android:color="#00FF00" />
     </shape>
+    
+    
+see res/layout/activity_main.xml
+
+           <Button
+                android:id="@+id/btn_submit"
+                android:text="Login"
+                android:background="@drawable/round_shape"
+                android:textColor="@color/black"
+                android:textAllCaps="false"
+                android:padding="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+              />
 
 # Dimens
 
