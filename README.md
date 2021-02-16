@@ -2,6 +2,10 @@
 login app using shape to do a round button 
 
 
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_shape/main/output1.png)
+
+![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_shape/main/output2.png)
+
 ref : 
 
 https://www.itread01.com/content/1547691692.html
