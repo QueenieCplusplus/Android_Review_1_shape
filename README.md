@@ -9,6 +9,13 @@ login app using shape to do a round button
 # Shape
 
  see res/drawable/... in under project.
+ 
+ 
+     <?xml version="1.0" encoding="utf-8"?>
+    <shape xmlns:android="http://schemas.android.com/apk/res/android">
+        <corners android:radius="100dp" />
+        <solid android:color="#00FF00" />
+    </shape>
 
 # Dimens
 
